@@ -3,4 +3,4 @@
 # install 
 - git clone this repo
 - run cargo build --release
-- run cargo build --path {you want install to where}
+- run cargo build --path .
